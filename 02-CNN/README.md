@@ -1,16 +1,14 @@
 # Section 2: Convolutional Neural network, Autonomous drive in a driving simulator
 
-In this project, you will use what you've learned about deep neural networks and convolutional neural networks to clone driving behavior. You will train, validate and test a model using Keras. The model will output a steering angle to an autonomous vehicle.
-
-Follow the steps below to run the project successfully. Please feel free to modify the pre-trained model and develop and train your own model.
+In this project, you will use what you've learned about deep neural networks and convolutional neural networks to clone driving behavior. You will train, validate and test a model using Keras. The model will output a steering angle to an autonomous vehicle. Follow the steps below to run the project successfully. Please feel free to modify the pre-trained model and develop and train your own model.
 
 * Download the Self-driving car simulator
 
-- [Linux](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f0f7_simulator-linux/simulator-linux.zip)
+  * [Linux](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f0f7_simulator-linux/simulator-linux.zip)
 
-- [Windows 32](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f4b6_simulator-windows-32/simulator-windows-32.zip) 
+  * [Windows 32](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f4b6_simulator-windows-32/simulator-windows-32.zip) 
 
-- [Windows 64](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f3a4_simulator-windows-64/simulator-windows-64.zip)
+  * [Windows 64](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f3a4_simulator-windows-64/simulator-windows-64.zip)
 
 I have downloaded the Windows version and port forwarded port 4567 from the Ubuntu VM to the WIndows VM for good graphical performance. However, feel free to download the Linux vesrion of the simulator.
 

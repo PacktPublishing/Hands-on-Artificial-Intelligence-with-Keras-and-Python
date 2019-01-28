@@ -12,7 +12,6 @@ To complete the environment please follow the steps below:
 
 ```
 conda env create -f environment.yml
-
 ```
 
 * After a while you should recieve a message for successful installation completion
@@ -21,7 +20,6 @@ conda env create -f environment.yml
 
 ```
 conda activate ai
-
 ```
 
 * Now your environment setup is complete. Congratulations!
