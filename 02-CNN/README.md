@@ -30,7 +30,7 @@ python drive.py model.h5
 * To train your model using the existing example dataset type the following command:
 
 ```sh
-python drive.py model.h5
+python model.py
 ```
 
 This will create the model.h5 file containing all the weights of the learned model. And if you want to train with your own traing data put your downloaded data in the example folder or change the paths of the ```csvfile = './examples/driving_log.csv'``` and ```imgfolder = './examples/IMG/'```.
