@@ -27,7 +27,7 @@ python drive.py model.h5
 
 * The above command will load the trained model and use the model to make predictions on individual images in real-time and send the predicted angle back to the server via a websocket connection.
 
-* To trin your model using the existing example dataset type the following command:
+* To train your model using the existing example dataset type the following command:
 
 ```sh
 python drive.py model.h5
