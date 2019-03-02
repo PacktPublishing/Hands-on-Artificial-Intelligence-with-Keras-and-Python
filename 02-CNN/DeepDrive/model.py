@@ -29,9 +29,9 @@ def preparedata (samples):
     for sample in samples:
         # Extract filenames (stripped of directory path) for 
         # this sample's center, left, and right images
-        filename_center = sample[0].split('\\')[-1]
-        filename_left = sample[1].split('\\')[-1]
-        filename_right = sample[2].split('\\')[-1]
+        filename_center = (sample[0].split('\\')[-1]).strip()
+        filename_left = (sample[1].split('\\')[-1]).strip()
+        filename_right = (sample[2].split('\\')[-1]).strip()
         # Construct image paths relative to model.py 
         path_center = imgfolder + filename_center
         path_left = imgfolder + filename_left

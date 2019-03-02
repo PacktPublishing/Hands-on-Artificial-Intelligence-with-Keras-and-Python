@@ -27,6 +27,14 @@ python drive.py model.h5
 
 * The above command will load the trained model and use the model to make predictions on individual images in real-time and send the predicted angle back to the server via a websocket connection.
 
+* To trin your model using the existing example dataset type the following command:
+
+```sh
+python drive.py model.h5
+```
+
+This will create the model.h5 file containing all the weights of the learned model. And if you want to train with your own traing data put your downloaded data in the example folder or change the paths of the ```csvfile = './examples/driving_log.csv'``` and ```imgfolder = './examples/IMG/'```.
+
 Note: There is known local system's setting issue with replacing "," with "." when using drive.py. When this happens it can make predicted steering values clipped to max/min values. If this occurs, a known fix for this is to add "export LANG=en_US.utf8" to the bashrc file.
 
 
