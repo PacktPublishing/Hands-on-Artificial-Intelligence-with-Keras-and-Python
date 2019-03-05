@@ -28,3 +28,4 @@ dependencies:
   - keras==2.0.8
   - python-socketio
   - gym
+  - gym[atari]
