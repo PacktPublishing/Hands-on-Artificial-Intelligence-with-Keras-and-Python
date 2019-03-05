@@ -27,3 +27,4 @@ dependencies:
   - moviepy
   - keras==2.0.8
   - python-socketio
+  - gym
