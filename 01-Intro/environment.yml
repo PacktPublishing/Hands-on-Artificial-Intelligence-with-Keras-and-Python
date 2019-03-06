@@ -30,3 +30,4 @@ dependencies:
   - gym
   - gym[atari]
   - keras-rl
+  - pyglet==1.2.4
