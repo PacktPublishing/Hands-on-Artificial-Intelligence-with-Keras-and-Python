@@ -29,3 +29,4 @@ dependencies:
   - python-socketio
   - gym
   - gym[atari]
+  - keras-rl
