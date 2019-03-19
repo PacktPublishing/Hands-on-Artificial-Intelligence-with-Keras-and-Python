@@ -18,7 +18,7 @@ $ jupyter notebook
 * Click on `NST.ipynb`
 * After this execute each of the blocks in the notebook using `Shift + Enter`
 
-## **Part-II: NNST with CGAN**
+## **Part-II: NNST with Cycle-GAN**
 ---
 
 First navigate to `04-NST/NST-CGAN/` and type the following command to open the jupyter notebook
@@ -31,6 +31,6 @@ $ jupyter notebook
 * Create a folder `data` and navigate to it
 * Download the Monet dataset inside `data` folder from [here](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/monet2photo.zip)
 * Extract the Monet dataset
-* You should see the your browser open the address `http://localhost:8888/tree`
+* Open the address `http://localhost:8888/tree`, if not already opened
 * Click on `cycleGAN.ipynb`
 * After this execute each of the blocks in the notebook using `Shift + Enter`
