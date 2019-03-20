@@ -30,7 +30,7 @@ $ jupyter notebook
 
 * Create a folder `data` and navigate to it
 * Download the Monet dataset inside `data` folder from [here](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/monet2photo.zip)
-* Extract the Monet dataset
+* Extract the Monet dataset inside the `data` folder
 * Open the address `http://localhost:8888/tree`, if not already opened
 * Click on `cycleGAN.ipynb`
 * After this execute each of the blocks in the notebook using `Shift + Enter`
