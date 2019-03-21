@@ -6,7 +6,7 @@ Here you will find some resources if you want to dig deep into the different arc
 ---
 
 * Stanford Deep Learning [course](http://cs231n.stanford.edu/syllabus.html)
-* [Video Lectures](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) from Andrej Karpathy: 
+* [Video Lectures](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) from Andrej Karpathy
 * [Deep Learning book](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
 ## **Part-II: RL resources**
