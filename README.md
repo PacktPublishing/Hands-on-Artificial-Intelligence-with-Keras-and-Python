@@ -1,5 +1,5 @@
-# Hands-On Artificial Intelligence with Keras and Python (V
-This is the code repository for [Learning Web Scraping with JavaScript [Video]](https://www.packtpub.com/web-development/learning-web-scraping-javascript-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On Artificial Intelligence with Keras and Python (Video)
+This is the code repository for [Hands-On Artificial Intelligence with Keras and Python [Video]](https://prod.packtpub.com/in/application-development/hands-artificial-intelligence-keras-and-python-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 AI will help you solve key challenges in the future in several domains. It is an exciting time to be doing AI with world making its shift towards Industry 2.0 with automation in focus. 
 This course will help you learn by doing an industry relevant problem in image processing domain, develop and understand automation and AI techniques. You will learn how to harness the power of algorithms by creating apps which intelligently interact with the world around you, addressing common challenges faced in AI ecosystem. 
