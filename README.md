@@ -1,16 +1,41 @@
-# Hands-on-Artificial-Intelligence-with-Keras-and-Python
+# Hands-On Artificial Intelligence with Keras and Python (V
+This is the code repository for [Learning Web Scraping with JavaScript [Video]](https://www.packtpub.com/web-development/learning-web-scraping-javascript-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+## About the Video Course
+	AI will help you solve key challenges in the future in several domains. It is an exciting time to be doing AI with world making its shift towards Industry 2.0 with automation in focus. 
+This course will help you learn by doing an industry relevant problem in image processing domain, develop and understand automation and AI techniques. You will learn how to harness the power of algorithms by creating apps which intelligently interact with the world around you, addressing common challenges faced in AI ecosystem. 
+By the end of the course, you will be able to build real-world artificial intelligence applications using Keras and Python.
+The code bundle for this video course is available at - https://github.com/PacktPublishing/Hands-on-Artificial-Intelligence-with-Keras-and-Python
 
-This course contains 5 different sections:
+<H2>What You Will Learn</H2>
+<DIV class=book-info-will-learn-text>
+<UL>
+<LI> Develop a deep learning network from scratch with Keras using Python to solve a practical problem of classifying the traffic signs on the road	
+<LI> Introduction to Computer Vision & Deep Learning
+<LI> Setup and develop an environment with VM or Docker. Ipython and Jupyter notebook
+<LI> Activation functions, Forward propagation, backward propagation
+<LI> How to use Tensorflow backend. Hands-on coding with me
+<LI> Tensorboard and intuitions of filters and hyper-parameters
+<LI> Deploy and evaluate for other real-world applications. Future work and readings!
+<LI> How to use Tensorflow backend. Hands-on coding with me
+<LI> Game AI - Running game agents using Deep Q network</UL></DIV>
 
-* Section 1: Introduction and environment setup
-* Section 2: Convolutional neural network, Autonomous drive in a driving simulator
-* Section 3: Reinforcement learning, Self-learning AI game agent
-* Section 4: Neural network style transfer, Transform your picture to different artistic styles
-* Section 5: Conclusion and final remarks
+## Instructions and Navigation
+### Assumed Knowledge
+To fully benefit from the coverage included in this course, you will need:<br/>
+If you are a data science enthusiast looking to achieve the power of Artificial Intelligence. Developers who want to build some broad range of skills such as image translation, autonomous driving simulation, deep reinforcement learning with AI will find this course most useful. Even experienced users of AI will discover new ideas and techniques in the projects, which will help them in becoming an AI expert.
+### Technical Requirements
+This course has the following software requirements:<br/>
+OS: Windows or Linux<br/>
+Processor: i5 - i7 series<br/>
+Memory:  Minimum 4 GB<br/>
+Storage: Minimum 256 GB free space<br/>
 
----
-
-Please follow each section folders during the course to complete the setup so that you can run the code explained during the course!
 
 
 
+## Related Products
+* [Artificial Intelligence in Game Development- Tic Tac Toe AI [Video]](https://prod.packtpub.com/in/application-development/artificial-intelligence-game-development-tic-tac-toe-ai-video)
+
+* [Practical Artificial Intelligence for A/B Testing [Video]](https://prod.packtpub.com/in/application-development/practical-artificial-intelligence-ab-testing-video)
+
+* [Learning Python Artificial Intelligence by Example [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/learning-python-artificial-intelligence-example-video)
