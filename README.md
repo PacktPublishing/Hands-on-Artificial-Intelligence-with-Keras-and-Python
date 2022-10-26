@@ -39,3 +39,7 @@ Storage: Minimum 256 GB free space<br/>
 * [Practical Artificial Intelligence for A/B Testing [Video]](https://prod.packtpub.com/in/application-development/practical-artificial-intelligence-ab-testing-video)
 
 * [Learning Python Artificial Intelligence by Example [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/learning-python-artificial-intelligence-example-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838557829">https://packt.link/free-ebook/9781838557829 </a> </p>
